@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preciousyaks17
-- 👀 I’m interested in ...UI UX design
-- 🌱 I’m currently learning ... fundamentals of UI UX design
-- 💞️ I’m looking to collaborate on ... product design
+- 👀 I’m interested in ... Frontend development
+- 🌱 I’m currently learning ... fundamentals of frontend development
+- 💞️ I’m looking to collaborate on ... HTML , CSS and JavaScript
 - 📫 How to reach me ... preciousyakubu307@gmail.com
 
 <!---
