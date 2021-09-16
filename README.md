@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preciousyaks17
-- 👀 I’m interested in ... Frontend development
-- 🌱 I’m currently learning ... fundamentals of frontend development
-- 💞️ I’m looking to collaborate on ... HTML , CSS and JavaScript
+- 👀 I’m interested in ... Web development
+- 🌱 I’m currently learning ... HTML ,CSS and JavaScript
+- 💞️ I’m looking to collaborate on ... Frontend development
 - 📫 How to reach me ... preciousyakubu307@gmail.com
 
 <!---
